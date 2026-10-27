@@ -1,0 +1,15 @@
+name: NeverApply
+url: https://neverapply.co
+description: Hosted MCP server and AI job-search agent that lets Claude, Cursor, Cline and other MCP clients search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with the user's approval, using OAuth 2.1 sign-in over Streamable HTTP.
+documentation_url: https://neverapply.co/features/mcp
+category: specialized-tools
+type: platform
+tags:
+  - mcp
+  - hr
+  - productivity
+  - saas
+pricing: freemium
+added_date: '2026-10-27'
+last_verified: '2026-10-27'
+verified: false
