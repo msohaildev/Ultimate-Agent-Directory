@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Total Entries](https://img.shields.io/badge/Total%20Entries-776-blue?style=for-the-badge&logo=database&logoColor=white)
+![Total Entries](https://img.shields.io/badge/Total%20Entries-777-blue?style=for-the-badge&logo=database&logoColor=white)
 ![Last Updated](https://img.shields.io/badge/Updated-October_2026-purple?style=for-the-badge&logo=calendar&logoColor=white)
 
 **Version: 0.1.1**
@@ -541,6 +541,7 @@ Missing something? [Submit an issue](https://github.com/moshehbenavraham/Ultimat
 | **Model Context Protocol** | [Link](https://modelcontextprotocol.io/docs/getting-started/intro) | Open protocol for connecting AI applications and agents to external tools, data sources, and prompts. MCP defines a client-server architecture that lets models discover and call capabilities exposed by compatible servers. |
 | **Model Context Protocol SDKs** | [GitHub](https://github.com/modelcontextprotocol) | Official SDK collection for implementing MCP clients and servers across languages including Python, TypeScript, Kotlin, Java, C#, Go, Ruby, and Rust. These SDKs provide the base libraries for protocol-compliant MCP integrations. |
 | **Nexent** | [GitHub](https://github.com/ModelEngine-Group/nexent) | Zero-code open-source platform for auto-generating intelligent agents from natural language prompts through a simple workflow: prompt -> plan -> execute. Eliminates complex orchestration and drag-and-drop requirements while offering powerful agent running control, data processing capabilities, and MCP tool integration for building sophisticated agents without technical expertise. ![Stars](https://img.shields.io/badge/stars-5863-yellow) |
+| **NeverApply** | [Link](https://neverapply.co/) | Hosted MCP server and AI job-search agent that lets Claude, Cursor, Cline and other MCP clients search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with the user's approval, using OAuth 2.1 sign-in over Streamable HTTP.
 | **Not Human Search** | [Link](https://nothumansearch.ai/) | Agent-first search engine that indexes 8,000+ MCP servers and other agent-readable services ranked across 7 agentic readiness signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Useful as an agent-discovery primitive — one agent can query NHS to find another agent to delegate work to. Includes verify_mcp live JSON-RPC probe. Queryable via MCP, REST API, or browser. Listed in the official MCP registry as `ai.nothumansearch/search`. ![Stars](https://img.shields.io/badge/stars-8-yellow) |
 | **Notion MCP Server** | [GitHub](https://github.com/makenotion/notion-mcp-server) | Official Notion MCP server that gives compatible agents access to Notion pages, databases, blocks, and workspace content for knowledge retrieval and write-back workflows. ![Stars](https://img.shields.io/badge/stars-4633-yellow) |
 | **NVIDIA Nemotron** | [Link](https://developer.nvidia.com/nemotron) | NVIDIA family of open models, training data, and recipes for building specialized AI agents and generating training data. Nemotron includes open weights and model families used for agentic reasoning, synthetic data generation, reward modeling, and fine-tuning workflows. |
@@ -979,7 +980,7 @@ Missing something? [Submit an issue](https://github.com/moshehbenavraham/Ultimat
 
 ## Statistics
 
-- **Total Entries:** 776
+- **Total Entries:** 777
 - **Categories:** 12
 - **Last Generated:** 2026-10-21
 
